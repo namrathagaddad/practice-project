@@ -2,7 +2,9 @@ package Newproject;
 
 public class HelloWorld {
 
-	public static void main(String[] args) {//from c11 branch code change 
+ 
+	public static void main(String[] args) {//from b11 branch + from c11 branch code change
+>>>>>>> 58f36fa (added b11 branch code)
 		System.out.println("Hello There!!");
 	}
 	//Side branch code
