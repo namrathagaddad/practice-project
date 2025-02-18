@@ -10,7 +10,9 @@ public class HelloWorld {
 	//Side branch code
 		// TODO Auto-generated method stub
        Public void m1 () {
-    	   System.out.println("from b1 branch");//from y1 branch for stashing demo
+
+    	   System.out.println("from b1 branch");//stash demo x1 branch + //from y1 branch for stashing demo
+
        }
 	}
 
